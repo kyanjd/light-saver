@@ -2,22 +2,20 @@
 **Note:** This repository is a clone of the original repository, with all hardware-related files (e.g., Makefiles, MPLab project files) removed along with the commit history.
 
 ## Contents
-1. Learning Outcomes
+1. Objectives
 2. Brief
 3. Specification
-4. Hardware Setup
-5. Programme Explanation   
-6. Programme Framework  
-6.1 main.c  
-6.2 interrupts.c  
-6.3 ADC.c  
-6.4 timers.c  
-6.5 LEDarray.c  
-6.6 clock.c  
-6.7 LCD.c  
-6.8 calibrate.c  
-7. Demonstation
-8. Supplementary information and help
+4. Program Explanation   
+5. Program Framework  
+5.1 main.c  
+5.2 interrupts.c  
+5.3 ADC.c  
+5.4 timers.c  
+5.5 LEDarray.c  
+5.6 clock.c  
+5.7 LCD.c  
+5.8 calibrate.c  
+6. Demonstation
    
 ## 1. Objectives
 
