@@ -1,5 +1,5 @@
 # Light-Saver - Energy saving automatic street lamp hardware/software
-**Note:** Note: This repository is a clone of the original repository, with all hardware-related files (e.g., Makefiles, MPLab project files) removed along with the commit history.
+**Note:** This repository is a clone of the original repository, with all hardware-related files (e.g., Makefiles, MPLab project files) removed along with the commit history.
 
 ## Contents
 1. Learning Outcomes
